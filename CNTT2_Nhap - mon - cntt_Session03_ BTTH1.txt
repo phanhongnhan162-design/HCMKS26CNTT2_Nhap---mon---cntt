@@ -1,0 +1,13 @@
+﻿Bài 1: Quản lý lưu trữ và đường dẫn tệp trong Windows 
+Phần 1:
+* Sai lầm vị trí lưu trữ: lưu trong Windows\system32 vì chỗ này thuộc ổ đĩa C nên khi lưu sẽ bị mất dữ liệu khi cài lại Windows và nó sẽ không an toàn.
+* Cách đặt tên file: Nam đặt tên file có khoảng trắng đây là 1 trong 3 điều cấm khi đặt tên file nên đặt lại là Bai_tap_1.py và Session-01.
+* Tốc độ mạng đc đo bằng Mbps còn tốc độ tải của file là MB/s thì 12,5MB/s là tốc độ file chạy rất tốt và nhanh. Nam bị nhầm giữa Mbps và MB/s.
+* Ổ cứng SSD 256GB nhưng thực tế hiển thị nhỏ hơn vì:
+* 1GB = 1 000 000 000 bytes vậy 256GB = 256 000 000 000 bytes 
+* Windows hiển thị theo hệ nhị phân: 1GB = 1073741824 bytes 
+* Nên 256 000 000 000 bytes = 238,4185791GB thì đây mới là con số GB thực tế mà máy tính hiển thị.
+
+
+Phần 2:
+D:\hcm26-cntt2\nhap-mon-cntt\session- 01\bai_tap_1.py.
